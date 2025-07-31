@@ -1,10 +1,5 @@
-<div align="center">
-  <br />
-    <a href="https://youtu.be/lie0cr3wESQ" target="_blank">
-      <img src="public/readme/hero.png" alt="Project Banner">
-    </a>
-  <br />
 
+<<<<<<< HEAD
   <div>
      <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
@@ -1075,4 +1070,8 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 </a>#   C l o u d K e e p A p p  
  #   C l o u d K e e p A p p  
  #   C l o u d K e e p A p p  
+ 
+=======
+>>>>>>> d09ac3076735cb1905017e010fe3d4a1c47a2722
+#   C l o u d K e e p A p p  
  
