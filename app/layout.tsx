@@ -11,7 +11,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "CloudKeep",
-  description: "StoreIt - The only storage solution you need.",
+  description: "CloudKeep – All Your Files, Always With You.",
   icons: {
     icon: "/favicon.ico", // Place favicon.ico inside /public folder
   },
