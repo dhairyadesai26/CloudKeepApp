@@ -37,13 +37,16 @@ const MobileNavigation = ({
 
   return (
     <header className="mobile-header">
-      <Image
-        src="/assets/ChatGPT Image Jul 31, 2025, 07_05_03 PM.png"
-        alt="logo"
-        width={120}
-        height={52}
-        className="h-auto"
-      />
+     <Image
+  src="/assets/ChatGPT Image Jul 31, 2025, 07_05_03 PM.png"
+  alt="logo"
+  width={240}
+  height={52}
+  priority
+  className="w-[120px] sm:w-[160px] md:w-[200px] lg:w-[240px] h-auto mx-auto transition-transform duration-300 hover:scale-105"
+/>
+
+
 
       <Sheet open={open} onOpenChange={setOpen}>
         <SheetTrigger>

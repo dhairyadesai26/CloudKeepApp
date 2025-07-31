@@ -6,13 +6,17 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
     <div className="flex min-h-screen">
       <section className="  hidden w-1/2 items-center justify-center bg-brand p-10 lg:flex xl:w-2/5">
         <div className="flex max-h-[800px] max-w-[430px] flex-col justify-center space-y-12">
-          <Image
+         <Image
   src="/assets/ChatGPT Image Jul 31, 2025, 07_05_03 PM.png"
-  alt="CloudKeep logo"
-  width={300}
-  height={300}
-  className="object-contain mx-auto w-[220px] md:w-[240px] lg:w-[260px] transition-transform duration-300 hover:scale-105"
+  alt="lego"
+  width={260}
+  height={60}
+  priority
+  className="object-contain block mx-auto 
+    w-[160px] sm:w-[200px] md:w-[220px] lg:w-[240px] xl:w-[260px] 
+    transition-transform duration-300 hover:scale-105"
 />
+
 
 
           <div className="space-y-5 text-white text-center">

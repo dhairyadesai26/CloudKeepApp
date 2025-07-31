@@ -24,12 +24,12 @@ const Sidebar = ({ fullName, avatar, email }: Props) => {
     width={220}
     height={5}
     
-    className=" object-contain lg:block hidden pl-9"
+    className=" object-contain block pl-9 lg:pl-9"
   />
 
 
         <Image
-          src="/assets/icons/logo-brand.svg"
+          src="/assets/download (2).png"
           alt="logo"
           width={52}
           height={52}
