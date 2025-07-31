@@ -38,7 +38,7 @@ const MobileNavigation = ({
   return (
     <header className="mobile-header">
       <Image
-        src="/assets/icons/logo-full-brand.svg"
+        src="/assets/ChatGPT Image Jul 31, 2025, 07_05_03 PM.png"
         alt="logo"
         width={120}
         height={52}
